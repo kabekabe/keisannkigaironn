@@ -1,3 +1,4 @@
+課題
 cube=27
 for guess in range( abs(cube) + 1)  :
     if  guess**3  >=  abs(cube) :
